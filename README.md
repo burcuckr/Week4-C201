@@ -3,5 +3,5 @@
 2.O(1)
 3. 
 a) O(n)
-b) O(n²)
+b) O(n²) //-> nested *
 c) O(logn) 
